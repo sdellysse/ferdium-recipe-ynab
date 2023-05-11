@@ -1,0 +1,13 @@
+{
+  "id": "ynab",
+  "name": "YNAB",
+  "version": "0.0.1",
+  "description": "YNAB",
+  "main": "index.js",
+  "author": "Sarah Dellysse <me@sqlazer.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.ynab.com/"
+    
+  }
+}
